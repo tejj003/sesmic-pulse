@@ -1,0 +1,21 @@
+{
+  "name": "seismic-pulse",
+  "version": "1.0.0",
+  "description": "Real-time Global Earthquake Data Visualization",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "earthquake",
+    "visualization",
+    "canvas",
+    "data-art"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
